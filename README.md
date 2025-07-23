@@ -12,3 +12,5 @@ Activities Done:
 
 1.Experience to Salary Prediction Model
 2.Chicago Taxi Trip Fare Prediction Model
+3.Experience to Salary Prediction Model
+4.Chicago Taxi Trip Fare Prediction Model
